@@ -10,7 +10,10 @@ Guide:
 
 Any .txt vocabulary file should have the following structure and syntax:
 [Tab]*english word* / *russian word*
+
 [Tab]*english word* / *russian word* | *russian word* - in case of you want to write another one transaltion and they are synonyms (whim / каприз | прихоть)
+
 [Tab]*english word* / *russian word* & *russian word* - in case of an english word has the second meaning with another semantics than the first word (hint / намек & подсказка)
 
-You have an example file on this repository. Good luck!
+Don't forget about spaces between lines (by pressing Enter)!
+You have an example file on this repository. It is necessary to examine them! Good luck!
